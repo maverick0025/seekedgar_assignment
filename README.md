@@ -2,9 +2,15 @@
 
 ## Question 1
 
+[Click here to find the code](https://colab.research.google.com/drive/1ANEtfOEN_wPA7-YGCb5U1Y3Oy5-lZ26t?usp=sharing)
+
+- Regarding the code for the 2nd SEC 10K Report, as expected the start line “ITEM 7.
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS” because, in the 2nd report the start line actually is "Item 7. Management's Discussion and Analysis of Financial" so, it's quite not possible, one approach through which this can be tackled is by taking the longest substring that matches with the expected start line.
+
 ## Question 2
 
-- Create Database table
+- Create a Database table
     ```
     CREATE TABLE employees (
     ID INT AUTO_INCREMENT PRIMARY KEY,
